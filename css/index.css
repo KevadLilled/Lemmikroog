@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300&family=Rampart+One&display=swap');
+
+body {
+    background-color: white;
+}
+
+.retsepti-nimetus {
+    text-align: center;
+    font-family: 'Rampart One', cursive;
+    color: palevioletred;
+}
+
+img {
+    width: 400px;
+    float: right;
+    padding: 0;
+}
+
+.koostisosad {
+    border: 1px solid white; 
+    width: 30%;
+    font-family: 'Atma', cursive;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.koostisosad-tabel {
+    border: 1px solid black;
+    width: 75%;
+}
+
+.töökäik-pealkiri {
+    font-family: 'Atma', cursive; 
+    padding-left: 10px;
+}
+
+.töökäik {
+    font-family: 'Atma', cursive; 
+    text-align: left;
+}
+
+.allikas {
+    font-family: 'Atma', cursive;
+    font-size: smaller;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Atma', cursive;
+}
